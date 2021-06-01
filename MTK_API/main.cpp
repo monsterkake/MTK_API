@@ -23,7 +23,7 @@ void mainLoop()
 {
     while (true) 
     {
-        int a = 0;
+        int a ;
         render();
         manageEvents();
     }
