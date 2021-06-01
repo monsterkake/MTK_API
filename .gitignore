@@ -1,0 +1,13 @@
+
+MTK_API/Debug/vc142.pdb
+MTK_API/Debug/vc142.idb
+MTK_API/Debug/textures.obj
+*.obj
+*.tlog
+*.exe
+*.ilk
+*.pdb
+*.db-shm
+*.db-wal
+*.db
+*.exe
