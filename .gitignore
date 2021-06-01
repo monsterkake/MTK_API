@@ -11,3 +11,7 @@ MTK_API/Debug/textures.obj
 *.db-wal
 *.db
 *.exe
+*.log
+*.recipe
+*.db
+.vs/MTK_API/v16/.suo
