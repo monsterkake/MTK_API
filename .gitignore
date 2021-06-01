@@ -15,3 +15,6 @@ MTK_API/Debug/textures.obj
 *.recipe
 *.db
 .vs/MTK_API/v16/.suo
+MTK_API/Debug/MTK_API.vcxproj.FileListAbsolute.txt
+.vs/MTK_API/v16/Browse.VC.opendb
+.vs/MTK_API/v16/ipch/AutoPCH/a7adcde5d9b548a7/RENDERANDEVENTS.ipch
